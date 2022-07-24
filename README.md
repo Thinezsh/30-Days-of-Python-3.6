@@ -3,7 +3,7 @@
 
 ##  30 Days of Python 3.6
 
-Relased in 2016.
+Relased in 2016..
 
 For the next 30 days, learn the Python Programming language.
 
